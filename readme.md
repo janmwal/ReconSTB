@@ -1,10 +1,8 @@
 
   # Reorganisation of cortical inter-areal network during learning of a sensorimotor transformation behaviour 📝  
-  Welcome to my computational neurosciences minor project code - which is called ReconSTB for brevity! I had the chance to work on sensorimotor spiking data in [the Laboratory of 
+  Welcome to my computational neurosciences minor project code - which is called **ReconSTB** for brevity! I had the chance to work on sensorimotor spiking data in [the Laboratory of 
   Sensory Processing](https://www.epfl.ch/labs/lsens/) at [EPFL](https://www.epfl.ch/en/). The goal of this project was to explore trial-by-trial variability and correlation between sensorimotor neuron populations. The following repo contains the final jupyter notebook along with some generated figures. 
-  ![Delayed whisker detection task](delayed_whisker_detection_task.png)
-  ![Suggested pathway](suggested_pathway.png)
-
+  
   ## Requirements 🚀  
   Please make sure you have the following libraries installed, along with ipykernel to run the notebook :
   - python >= 3.9.1
